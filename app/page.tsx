@@ -81,11 +81,6 @@ export default async function Home(): Promise<React.ReactNode> {
                 Get Started Free
               </a>
             </Button>
-            <Button asChild variant="outline" size="lg" className="text-base px-8 py-6">
-              <a href="#features">
-                Learn More
-              </a>
-            </Button>
           </div>
         </div>
       </section>
